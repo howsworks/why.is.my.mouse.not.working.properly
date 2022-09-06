@@ -1,6 +1,6 @@
 # Why is my mouse not working properly
 
-[![why is my mouse not working properly](red2.png)](https://computersolve.com/why-is-my-mouse-not-working-properly/)
+[![why is my mouse not working properly](red2.png)](https://icncomputer.com/why-is-my-mouse-not-working-properly/)
 
 
 Unless your mouse suffers a hardware failure—by getting dunked with coffee or being batted off the side of your desk by a bored cat—odds are good that any performance glitches you see in that device are easily corrected within your operating system's core settings utility.
